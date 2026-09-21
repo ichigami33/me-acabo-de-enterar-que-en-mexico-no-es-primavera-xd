@@ -129,11 +129,7 @@ h1 {
 
 
 
-.amarillot{
-    color: #9B6BFF;
-    top: 15%;
-    right: 10%;
-}
+
 
 
 .azult{
@@ -141,6 +137,29 @@ h1 {
     top: 8%;
     left: 8%;
 }
+
+.amarillot{
+    color: #9B6BFF;
+    top: 8%;
+    right: 10%;
+}
+
+
+
+
+
+.azull{
+    color: #75BFFF;
+    top: 45%;
+    left: 3%;
+}
+
+.violetal{
+    color:  #9B6BFF;
+    top: 45%;
+    right: 3%;
+}
+
 
 .violetat{
     color: #75BFFF;
@@ -150,21 +169,8 @@ h1 {
 
 .amarillol{
     color: #9B6BFF;
-    bottom: 8%;
+    bottom: 12%;
     right: 8%;
-}
-
-
-.azull{
-    color: #9B6BFF;
-    top: 45%;
-    left: 3%;
-}
-
-.violetal{
-    color:  #75BFFF;
-    top: 50%;
-    right: 3%;
 }
 
 
